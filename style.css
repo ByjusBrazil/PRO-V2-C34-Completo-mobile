@@ -1,0 +1,11 @@
+body {  /* Alterações para publicação na PlayStore*/ 
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+html {
+  height: 100%;     /* This is for the fixed-to-the-bottom footer  para publicação na PlayStore*/ 
+}
